@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+        background-color: rgb(240, 240, 240);
+}
+
+header {
+    padding: 10px 20px;
+    background-color: rgb(212, 148, 148);
+}
+
+span {
+    font-size: xx-large;
+}
+
+main {
+    width: 900px;
+    margin: 40px auto;
+}
+
+.navcontainer {
+    padding: 15px 50px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.button_task {
+    color: white;
+    background-color: rgb(111, 111, 145);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button_section {
+    color: white;
+    background-color: rgb(111, 111, 145);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.sectioncontainer {
+    margin-top: 2px;
+    background-color: white;
+    padding: 15px 50px;
+}
+
+
