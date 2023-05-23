@@ -103,3 +103,28 @@ li {
     border-radius: 10px;
     padding: 5px;
 }
+
+.mobile {
+    color:  white;
+    font-size: 8px;
+    background-color: rgb(255, 145, 0);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.website {
+    color:  white;
+    font-size: 8px;
+    background-color: rgb(156, 23, 189);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.sales {
+    color:  white;
+    font-size: 8px;
+    background-color: rgb(154, 167, 36);
+    border-radius: 10px;
+    padding: 5px;
+}
+
